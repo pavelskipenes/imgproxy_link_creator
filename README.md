@@ -7,6 +7,7 @@ This is a quick scipt without any help or any helpful error checking to generate
 docker build -t some_random_name .
 docker run some_random_name http://127.0.0.1:8000/test.jpg
 ```
+![image](https://user-images.githubusercontent.com/38912521/129559400-11f0fd9d-6baa-4b87-bb84-3d2feda5b852.png)
 
 
 ## Usage
