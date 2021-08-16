@@ -2,6 +2,13 @@
 This is a quick scipt without any help or any helpful error checking to generate links given a set of inputs.
 ![image](https://user-images.githubusercontent.com/38912521/129556604-394f8bc0-2948-47ee-8294-a8061bd1a1d6.png)
 
+## Docker
+```
+docker build -t some_random_name .
+docker run some_random_name http://127.0.0.1:8000/test.jpg
+```
+
+
 ## Usage
 ```bash
 # configure env variables. They can also be passed as arguments to the program
